@@ -6,4 +6,4 @@
 
 images文件夹为所需素材；
 
-下载后运行 run_game.py即可；
+安装所需程序和包后，下载后运行 run_game.py即可；
